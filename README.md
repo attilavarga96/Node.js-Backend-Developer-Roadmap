@@ -67,7 +67,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## 4. Roadmap
 
-![Roadmap](./Node.js-backend-developer-roadmap.drawio.png)
+![Roadmap](./node.js-backend-developer-roadmap.drawio.png)
 
 ## 5. Resources
 
@@ -269,7 +269,7 @@ Idea from : [Node.js Developer Roadmap](https://github.com/aliyr/Nodejs-Develope
 
 ## 7. Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `Node.js-backend-developer-roadmap.drawio.png` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `drawio.png` file with project. It will open the roadmap for you. Update it, upload and update the image in readme and create a PR (export as png with 200% and overwrite the original drawio.png). Don't forget to update the README.md if it is necessary.
+The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `node.js-backend-developer-roadmap.drawio.png` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `drawio.png` file with project. It will open the roadmap for you. Update it, upload and update the image in readme and create a PR (export as png with 200% and overwrite the original drawio.png). Don't forget to update the README.md if it is necessary.
 
 - Open a pull request with improvements
 - Discuss ideas in issues
