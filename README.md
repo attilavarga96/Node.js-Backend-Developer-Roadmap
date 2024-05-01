@@ -8,7 +8,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 - [1. Table of Contents](#1-table-of-contents)
 - [2. Disclaimer](#2-disclaimer)
-- [3. Give a Star! :star](#3-give-a-star-star)
+- [3. Give a Star! :star:](#3-give-a-star-star)
 - [4. Roadmap](#4-roadmap)
 - [5. Resources](#5-resources)
   - [5.1. Prerequisites](#51-prerequisites)
@@ -61,7 +61,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job.
 
-## 3. Give a Star! :star
+## 3. Give a Star! :star:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
